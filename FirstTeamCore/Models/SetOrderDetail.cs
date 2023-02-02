@@ -11,6 +11,7 @@ namespace FirstTeamCore.Models
         }
 
         public int 套裝行程id { get; set; }
+        
         public int? 營地id { get; set; }
         public int? 營區細項id { get; set; }
         public int? 餐廳id { get; set; }
